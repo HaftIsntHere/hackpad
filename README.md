@@ -5,7 +5,7 @@
 ## PCB
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/6ad0f032-65ab-44fe-882e-47c99f3b51ce" /> <br>
 ## Case
-<img width="738" alt="image" src="https://github.com/user-attachments/assets/e41a999c-a71c-4cf3-9639-1effb30e5cae" />
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/e41a999c-a71c-4cf3-9639-1effb30e5cae" /> <br>
 > Everything fits together using 4 m3 screws and bolts
 ## BOM
 - 1 XIAO RP2040
