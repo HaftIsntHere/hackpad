@@ -1,4 +1,8 @@
 # Hackpad
+My hackpad includes 4 keys, a knob and an oled screen
+## Why I made this
+I made a hackpad because I always wanted to make my own DIY hardware, and I saw hackpad is coming back so it was a good chance to get into that category.
+**Thank you to the Hackpad team, the Highway to Undercity team and HackClub for making this possible!**
 <img width="826" alt="image" src="https://github.com/user-attachments/assets/d8bf980a-47e5-4697-b5af-b1dd62473877" /> <br>
 ## Schematic
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/ff1af0a6-2aff-4fe8-86a7-9e802680a77d" /> <br>
